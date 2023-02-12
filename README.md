@@ -10,7 +10,7 @@
 - 🔥  HTML と CSSの学びが終わりました。
 - 🚀 Em breve quero ser capaz de entrar na área de FRONT END
 - 🚀 FRONT END エンジニアできるように頑張ります。
-- <hr>
+ <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashimoto320&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashimoto320&layout=compact)](https://github.com/Hashimoto320/github-readme-stats)<br>
