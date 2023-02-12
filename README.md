@@ -1,4 +1,3 @@
-<style border="1px solid blue">
 ### Olá,eu sou o Hashimoto Mitsuo。
 ### Hi,my name is Hashimoto Mitsuo.
 ### 橋本と申します、宜しくお願い致します。
