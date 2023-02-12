@@ -10,4 +10,4 @@
 - 🚀 Em breve quero ser capaz de entrar na área de FRONT END
 - 🚀 FRONT END エンジニアできるように頑張ります。
 
-<img height="180em" src""
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashimoto320&show_icons=true&theme=radical)
